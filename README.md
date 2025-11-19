@@ -1,2 +1,4 @@
 # My-first-repository
-<br> Hi this is my first readme file.
+Hi this is my first readme file.
+<br>
+Author: Anupam Verma
