@@ -9,6 +9,6 @@ int main(){
     for(int i = 0; i <= n; i++){
         sum += i;
     }
-    cout << "Sum of number till n is:  " << sum; //feature added
+    cout << "Sum of numbers till n is:  " << sum; //feature added
     //This has a new feature
 }
