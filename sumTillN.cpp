@@ -9,5 +9,5 @@ int main(){
     for(int i = 0; i <= n; i++){
         sum += i;
     }
-    cout << "Sum is " << sum;
+    cout << "Sum of number till n is:  " << sum; // New feature
 }
